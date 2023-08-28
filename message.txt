@@ -1,2 +1,0 @@
-This is the eighth commit.
-Second commit in the feature branch!
